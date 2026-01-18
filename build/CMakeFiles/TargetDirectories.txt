@@ -1,0 +1,3 @@
+/home/karlmage/code/karlmage/build/CMakeFiles/calculator.dir
+/home/karlmage/code/karlmage/build/CMakeFiles/edit_cache.dir
+/home/karlmage/code/karlmage/build/CMakeFiles/rebuild_cache.dir
